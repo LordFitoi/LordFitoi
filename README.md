@@ -1,11 +1,20 @@
-<h1 align="center">Hi 👋, I'm Nahum Santana</h1>
-<h3 align="center">A very passionate and happy Web Developer</h3>
+<h1 align="center">Welcome, I'm Nahum Santana</h1>
+<p align="center">A passionated web developer</p>
 
 <br>
 
-![LordFitoi's GitHub stats](https://github-readme-stats.vercel.app/api?username=LordFitoi&count_private=true&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LordFitoi&layout=compact&theme=dracula&langs_count=8)](https://github.com/LordFitoi/)
+<h3 align="center">✨ Ranking ✨</h3>
+<p align="center">
+<a align="center"><img width="700" height="auto" src="https://github-readme-stats.vercel.app/api?username=LordFitoi&show_icons=true&theme=dracula&hide_border=true" /></a>
+</p>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LordFitoi&repo=GramaticalSimilarityFilter&theme=dracula)](https://github.com/LordFitoi/GramaticalSimilarityFilter)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LordFitoi&repo=feline&theme=dracula)](https://github.com/codetigerco/feline)
+<h3 align="center">✨ Contribution Statics ✨</h3>
+<p align="center">
+<a align="center"><img width="auto" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LordFitoi&theme=dracula" /></a>
+<br>
+<a align="center"><img width="auto" height="225" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LordFitoi&title_color=94b4a4&langs_count=10&layout=compact&hide_border=true&theme=dracula" /></a>
+<a align="center"><img width="auto" height="225" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=LordFitoi&theme=dracula" /></a>
+</p>
+
+
 
