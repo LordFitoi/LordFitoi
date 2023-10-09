@@ -5,7 +5,7 @@
 
 <h3 align="center">✨ Ranking ✨</h3>
 <p align="center">
-<a align="center"><img width="700" height="auto" src="https://github-readme-stats.vercel.app/api?username=LordFitoi&show_icons=true&theme=dracula&hide_border=true" /></a>
+<a align="center"><img width="700" height="auto" src="https://github-readme-stats.vercel.app/api?username=LordFitoi&count_private=true&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true" /></a>
 </p>
 
 <h3 align="center">✨ Contribution Statics ✨</h3>
