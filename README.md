@@ -8,8 +8,5 @@
 <a align="center"><img width="auto" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LordFitoi&theme=dracula" /></a>
 <br>
 <a align="center"><img width="auto" height="225" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LordFitoi&title_color=94b4a4&langs_count=10&layout=compact&hide_border=true&theme=dracula" /></a>
-<a align="center"><img width="auto" height="225" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=LordFitoi&theme=dracula" /></a>
+<a align="center"><img width="auto" height="225" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LordFitoi&theme=dracula" /></a>
 </p>
-
-
-
